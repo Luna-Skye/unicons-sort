@@ -1,0 +1,11 @@
+{
+  "name": "unicons-sort",
+  "version": "1.0.0",
+  "description": "Sorting the Unicons SVGS into their corresponding categories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sepshun",
+  "license": "ISC"
+}
