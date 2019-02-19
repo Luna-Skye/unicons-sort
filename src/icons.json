@@ -735,6 +735,16 @@
             "expand-left"
           ]
         },
+				{
+          "name": "expand-right",
+          "tags": [
+            "expand",
+            "resize",
+            "scaling",
+            "arrows",
+            "expand-right"
+          ]
+        },
         {
           "name": "export",
           "tags": [
@@ -7981,6 +7991,16 @@
           ]
         },
         {
+          "name": "bell",
+          "tags": [
+            "notification",
+            "alert",
+            "alarm",
+            "ring",
+            "bell"
+          ]
+        },
+        {
           "name": "bell-slash",
           "tags": [
             "no-bell",
@@ -8265,13 +8285,13 @@
           ]
         },
         {
-          "name": "commnet-alt-slash",
+          "name": "comment-alt-slash",
           "tags": [
             "no-message",
             "no-chat",
             "no-chat-bubble",
             "no-communication",
-            "commnet-alt-slash"
+            "comment-alt-slash"
           ]
         },
         {
